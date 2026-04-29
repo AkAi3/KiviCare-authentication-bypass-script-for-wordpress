@@ -26,7 +26,7 @@ The `patientSocialLogin()` function (REST endpoint `/wp-json/kivicare/v1/auth/pa
 
 ---
 
-## 🚀 Usage
+ 🚀 Usage
 
 ### Requirements
 - Python 3.6+
